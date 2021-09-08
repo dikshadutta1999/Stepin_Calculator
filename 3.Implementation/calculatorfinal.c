@@ -7,8 +7,6 @@
 
 /**
  * @brief Function to execute a STRING REVERSAL
- * 
- * @param c 
  * @return char* 
  */
 char* strreverse(char* c) //function for string reversal. Pointers used.
@@ -25,14 +23,12 @@ char* strreverse(char* c) //function for string reversal. Pointers used.
 }
 /**
  * @brief Function to calculate EMI using structures
- * 
  */
 struct EMI
 {float principal, rate, time, totalemi; }emi; //Structure used for EMI Calculation
 
 /**
- * @brief main function that calls other functions to perform action on parameters.
- * 
+ * @brief main function that calls other functions to perform action on parameters. 
  * @return int 
  */
 int main()
@@ -43,7 +39,6 @@ int main()
     scanf("%d",&choosenval);
 /**
  * @brief Construct a new switch object
- * 
  */
     switch(choosenval){
         case 1: ;
