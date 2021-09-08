@@ -1,12 +1,5 @@
 /**
- * @file sub.c
- * @author 
- * @brief function to subtract two numbers
- * @version 0.1
- * @date 
- * 
- * @copyright Copyright (c) 2021
- * 
+ * @file sub.c 
  */
 #include "calc.h"
 /**
