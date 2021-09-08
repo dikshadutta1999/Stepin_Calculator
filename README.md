@@ -1,6 +1,7 @@
 # Stepin_Calculator
 <img src="https://www.code-inspector.com/project/27805/score/svg" />
 <img src="https://www.code-inspector.com/project/27805/status/svg" />
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6b44e10a463d484c8a7ea3210c273593)
 
 ## Folder Structure
 |Folder             | Description |
