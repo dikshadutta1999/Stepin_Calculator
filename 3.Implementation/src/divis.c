@@ -1,13 +1,4 @@
-/**
- * @file divis.c
- * @author
- * @brief function to divide two numbers
- * @version 0.1
- * @date 
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include "calc.h"
 /**
  * @brief  function to divide two numbers
