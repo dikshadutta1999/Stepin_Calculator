@@ -3,12 +3,6 @@
 <img src="https://www.code-inspector.com/project/27805/status/svg" />
 
 
-
-
-|Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|![C/C++ CI](https://github.com/dikshadutta1999/Stepin_Calculator/blob/main/.github_workflow/c-build.yml)|![Unit Testing](https://github.com/dikshadutta1999/Stepin_Calculator/blob/main/.github_workflow/unit-test.yml)|![Code Quality - Cppcheck](https://github.com/dikshadutta1999/Stepin_Calculator/edit/main/.github_workflow/cppcheck.yml)|![CodeQuality - Valgrind](https://github.com/dikshadutta1999/Stepin_Calculator/blob/main/.github_workflow/Valgrind.yml)|![CI-Coverage](https://github.com/dikshadutta1999/Stepin_Calculator/blob/main/.github_workflow/gcov.yml)|![Git Inspector](https://github.com/dikshadutta1999/Stepin_Calculator/blob/main/.github_workflow/gitinspector.yml)|
-
 ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
