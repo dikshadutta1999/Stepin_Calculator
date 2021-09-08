@@ -1,12 +1,5 @@
 /**
  * @file sum.c
- * @author 
- * @brief function to add two numbers
- * @version 0.1
- * @date 
- * 
- * @copyright Copyright (c) 2021
- * 
  */
 #include "calc.h"
 /**
