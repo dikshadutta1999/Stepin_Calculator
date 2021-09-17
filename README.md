@@ -1,6 +1,8 @@
 # Stepin_Calculator
-<img src="https://www.code-inspector.com/project/27805/score/svg" />
-<img src="https://www.code-inspector.com/project/27805/status/svg" />
+
+## Code Inspector
+![Code Quality Score](https://www.code-inspector.com/project/29063/score/svg)
+![Code Grade](https://www.code-inspector.com/project/29063/status/svg)
 
 ## Folder Structure
 |Folder             | Description |
